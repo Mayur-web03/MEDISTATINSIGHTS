@@ -17,5 +17,7 @@ python app.py
 ```
 Then open http://localhost:5000
 
-## 📊 Model
-The trained model (`malaria-cell-cnn.h5`) is not included due to file size.  
+## ⚠️ Model File
+The trained model (`malaria-cell-cnn.h5`) is not included in this repo.
+To run locally, train the model using the notebook (link) or contact me.
+
