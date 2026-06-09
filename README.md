@@ -70,4 +70,4 @@ MEDISTATINSIGHTS/
 
 ---
 
-> Built with ❤️ by a team of 5 | Powered by TensorFlow & Flask
+> Built with ❤️ by a team of 4 | Powered by TensorFlow & Flask
