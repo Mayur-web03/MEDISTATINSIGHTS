@@ -1,6 +1,6 @@
 # 🔬 MedistatInsights — AI Malaria Cell Classifier
 
-A deep learning web application that detects malaria-infected blood cells from microscopy images using a Convolutional Neural Network (CNN). Built as a team project of 4, with a focus on making AI-powered medical diagnostics accessible through a clean web interface.
+A deep learning web application that detects malaria-infected blood cells from microscopy images using a Convolutional Neural Network (CNN). Built as a team project of 2, with a focus on making AI-powered medical diagnostics accessible through a clean web interface.
 
 ## 👨‍💻 Team & Roles
 
@@ -70,4 +70,4 @@ MEDISTATINSIGHTS/
 
 ---
 
-> Built with ❤️ by a team of 4 | Powered by TensorFlow & Flask
+> Built with ❤️ by a team of 2 | Powered by TensorFlow & Flask
