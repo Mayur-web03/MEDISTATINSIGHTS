@@ -1,3 +1,7 @@
+.vercel
+vercel.json
+malaria-cell-cnn.h5
+
 # Model file (too large for GitHub)
 *.h5
 *.keras
