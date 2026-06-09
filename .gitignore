@@ -1,0 +1,14 @@
+# Model file (too large for GitHub)
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
